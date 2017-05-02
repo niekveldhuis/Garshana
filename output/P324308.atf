@@ -1,0 +1,62 @@
+&P324308 = CUSAS 3 0786
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+1. [2 {tug₂}bar]-si-[us₂]
+2. [1 {tu]g₂}bar-si-gal [3-kam us₂]
+3. [1] {[tu]g₂}ša₃-ga-du₃-ba-[tab-tuh-hu-um 3-kam us₂]
+4. 2 tug₂-tal₂-TUG₂ 3-kam [us₂ e₂-ba-an]
+5. 2 {tug₂}bar-dul₅ 4-kam [us₂]
+6. 1 {tug₂}ba-tab-tuh-hu-um [4-kam us₂]
+7. 2 {tug₂}nig₂-lam₂ 4-[kam us₂]
+8. 2 {tug₂}gu₂-e₃-guz-[za 4-kam us₂]
+9. 1 {tug₂}ša₃-gi₄-da₅ ba-tab-[tuh-hu-um 4-kam us₂]
+10. 1 tug₂ gun₃-a 4-kam us₂
+@reverse
+1. 1 {tug₂}bar-si gun₃-a 4-[kam us₂]
+2. 6 {tug₂}bar-dul₅-gen
+3. 4 {tug₂}bar-dul₅-tur-[gen]
+4. 8 {tug₂}uš-[bar]
+5. 1 tug₂-[mug]
+6. k[i aš-ta₂-kar₃-ta]
+7. pu[zur₄-a-ku-um]
+8. [šu ba]-ti
+9. [giri₃ {d}IŠKUR-IL]LAT šabra
+10. [iti ki-siki-{d}nin]-a-zu
+11. [mu en {d}inanna] unu{ki}-ga ; [maš₂-e i₃]-pa₃
+@tablet
+@obverse
+1. 2 {tug₂}bar-si-us₂
+2. 1 {tug₂}bar-si-gal 3-kam us₂
+3. 1 {tug₂}ša₃-ga-du₃-ba-[tab-tuh-hu-u]m ; 3-kam us₂
+4. 2 tug₂-tal₂-TUG₂ 3-kam us₂ e₂-ba-an
+5. 2 {tug₂}bar-dul₅ 4-kam us₂
+6. 1 {tug₂}ba-tab-tuh-hu-um 4-kam us₂
+7. 2 {tug₂}nig₂-lam₂ 4-kam us₂
+8. 2 {tug₂}gu₂-e₃-guz-za 4-kam us₂
+9. 1 {tug₂}ša₃-gi₄-da₅ ba-tab-tuh-hu-um 4-kam ; us₂
+10. 1 tug₂ gun₃-a 4-kam us₂
+@reverse
+1. 1 {tug₂}bar-si gun₃-a 4-kam us₂
+2. 6 {tug₂}bar-dul₅-gen
+3. 4 {tug₂}bar-dul₅-tur-gen
+4. 8 {tug₂}uš-bar
+5. 1 tug₂-mug
+6. ki aš-ta₂-kar₃-ta
+7. puzur₄-a-ku-um
+8. šu ba-ti
+9. giri₃ {d}IŠKUR-ILLAT šabra
+10. iti ki-siki-{d}nin-a-zu
+11. [mu] en {d}inanna unu{ki}-ga ; maš₂-e i₃-pa₃
+@left
+1. 36
+@seal 1
+# puzur-agum C
+1. ME-{d}ištaran
+2. dumu-munus lugal
+3. puzur₄-a-ku-um
+4. azlag₇ arad₂-zu

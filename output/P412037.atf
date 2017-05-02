@@ -1,0 +1,42 @@
+&P412037 = CUSAS 6 1537 A+B
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@tablet
+@obverse
+1. 10+4.0.0 zi₃!-dub-dub-ba gur
+2. 8.0.0 giš-i₃ <gur> sa₁₀-sa₁₀;-dam
+3. 6 gin₂ ku₃-babbar a₂ lu₂ hun-ga₂
+4. 1.1.0 dabin ša₃-gal-bi
+5. 10+5 {giš}|DU.GIŠ|?.AM?
+6. 1 {giš}hu-pu-um {giš}tukul
+@reverse
+1. 4 {giš}šu-nir
+2. ša₃ šušin{ki}
+3. ki i-šar-pa₂-dan;-ta
+4. {d}suen-ba-ni
+5. šu ba-ti
+6. iti ezem-me-ki-gal₂
+7. mu us₂-sa {d}šu-{d}suen ; lugal
+@envelope
+@obverse
+1. [14.0.0] zi₃ dub-dub-ba gur
+2. [8.0.0] giš-i₃ gur sa₁₀-sa₁₀-dam
+3. 6 gin₂ ku₃-babbar a₂ lu₂ hun-ga₂
+4. [1].1.0 dabin gur ša₃-gal-bi
+5. 10+5 {giš}|DU.⸢GIŠ|?|⸣.AM|?
+6. 1 {giš}hu-pu-um {giš}tukul
+7. [4] {giš}šu-nir
+8. [ša₃] šušin{ki}
+@reverse
+1. ki i-šar-pa₂-dan;-ta
+2. {d}suen-ba-ni
+3. šu ba-ti
+$ (seal)
+4. iti ezem-me-ki-gal₂
+5. mu us₂-s[a {d}šu]-{d}suen ; lugal
+@seal 1
+1. {d}suen-ba-ni
+2. arad₂ šu-kab-ta₂

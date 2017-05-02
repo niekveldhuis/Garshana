@@ -1,0 +1,31 @@
+&P324176 = CUSAS 3 1227
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+1. 5.0.0 munu₄-[si-e₃;-gur]
+2. kaš diri-[še₃]
+3. ki {d}IŠKUR-ILL[AT-ta]
+4. er₃-ra-b[a-ni]
+5. šu ba-t[i]
+@reverse
+$ ([seal])
+1. [iti š]e-KIN-ku₅
+2. mu us₂-sa en {d}inanna ; unu{ki}-ga maš₂-e ; i₃-pa₃
+@tablet
+@obverse
+1. 5.0.0 munu₄-si-e₃;-gur
+2. kaš diri-še₃
+3. ki {d}IŠKUR-ILLAT-ta
+4. er₃-ra-ba-ni
+@reverse
+1. šu ba-t[i]
+2. iti [še]-KIN-ku₅
+3. mu us₂-sa en {d}inanna ; unu{ki}-ga maš₂-e ; i₃-pa₃
+@seal 1
+# erra-bani A
+1. er₃-ra-ba-ni
+2. arad₂ šu-kab-[ta]

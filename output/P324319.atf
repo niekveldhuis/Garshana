@@ -1,0 +1,36 @@
+&P324319 = CUSAS 3 0447
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+1. [n]+5.0.0 še gur
+2. a₂ 5-sila₃-ta
+3. [sig₄-d]u₈-a-še₃
+4. [ki {d}]IŠKUR-ILLAT-[ta]
+5. ME-e₂-[a ugula lu₂] hun-[ga₂]
+@reverse
+1. [a-hu-ni maškim]
+2. [šu ba-an-ti]
+$ (seal)
+3. iti ezem-{d}šu-{d}suen
+4. mu {d}šu-{d}suen lugal ; [uri₅]{ki}-ma-ke₄ ; [ma-d]a za-ab-ša-li{ki} ; mu-hul
+@tablet
+@obverse
+1. [n+5.0.0 še gur]
+2. [a₂ 5-sila₃-ta]
+3. [sig₄ du₈-2-še₃]
+4. [ki {d}IŠKUR-ILLAT-ta]
+5. [ME-e₂-a ugula lu₂ hun-ga₂]
+@reverse
+1. a-hu-ni maškim
+2. šu ba-an-ti
+3. ($blank$)
+4. iti ezem-{d}šu-{d}suen
+5. mu {d}šu-{d}suen lugal ; [uri₅]{ki}-ma-ke₄ ; ma-da za-ab-ša-li{ki} ; mu-hul
+@seal 1
+# ME-ea
+1. me-e₂-[a]
+2. dumu-munus? mi-[...]-ša?

@@ -1,0 +1,32 @@
+&P324209 = CUSAS 3 1119
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+1. 20.0.0 še [gur]
+2. 60 {gi}kin-mah-sumun
+3. ki {d}IŠKUR-ILLAT-ta
+4. {d}ma-lik-ba-ni
+5. šu ba-[an-ti]
+@reverse
+$ (seal)
+1. iti ezem-{d}šul-gi
+2. mu ma-da za-ab;-ša-li mu-hul
+@tablet
+@obverse
+1. 20.0.0 še gur
+2. 60 {gi}kin-mah-sumun
+3. ki {d}IŠKUR-ILLAT-ta
+4. {d}ma-lik-ba-ni
+5. šu ba-an-ti
+@reverse
+1. iti ezem-{d}šul;-gi
+2. mu ma-da za-ab;-ša-li{ki} mu;-hul
+$ single ruling
+@seal 1
+# malik-bani
+1. {d}ma-lik-ba-ni
+2. arad₂ na-ra-am-i₃-li₂

@@ -1,0 +1,32 @@
+&P324402 = CUSAS 3 1310
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+1. 1 GIN₂ zabar
+2. ki-la₂-bi 1 ma-na 3 gin₂
+3. 1 {uruda}[šum]
+4. ki-la₂-b[i 1/2 ma-na]
+5. [ki {d}IŠKUR-ILLAT-ta]
+@reverse
+6. [lal₃-la nagar]
+7. [šu ba-an-ti]
+8. ($single ruling$)
+9. [iti e]zem-mah
+10. [mu] {d}šu-{d}suen lugal ; [ma-da] za-ab-ša-li;{ki} mu-hul
+@tablet
+@obverse
+1. 1 GIN₂ ⸢zabar⸣ 
+#note: (=|UD.K[A.B]AR|)
+2. ki-la₂-bi 1 ma-[na] 3 gin₂
+3. 1 {uruda}šum
+4. ki-la₂-bi 1/2 ma-na
+5. ki {d}IŠKUR-ILLAT-ta
+@reverse
+6. lal₃-la nagar
+7. šu ba-an-ti
+8. iti ezem-mah
+9. mu ma-da za-ab-ša;-li{ki} mu;-hul

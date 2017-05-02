@@ -1,0 +1,32 @@
+&P412042 = CUSAS 6 1545 A+B
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@tablet
+@obverse
+1. 1 ma-na ku₃-babbar
+2. ku₃ 1 gin₂-a 1.0.0 gur;-ta
+3. ki šu-eš₁₈-tar₂-ta
+4. i-me-er₃-ra
+@reverse
+1. šu ba-an-ti
+$ single ruling
+2. iti u₅-bi₂-gu₇
+3. mu us₂-sa {d}šu-{d}suen ; lugal uri₅{ki}-ma-ke₄ ; bad₃ mar-tu mu-ri-iq;-ti-id-ni-im mu;-du₃
+@envelope
+@obverse
+1. 1 ma-na ku₃-babbar
+2. ku₃ 1 gin₂-a 1.0.0 gur-ta
+3. ki šu-eš₁₈-tar₂-ta
+$ (seal)
+4. i-me-er₃-ra
+@reverse
+1. šu ba-an-ti
+$ (seal)
+2. iti u₅-bi₂-gu₇
+3. mu us₂-sa {d}šu-{d}suen lugal ; uri₅{ki}-ma-ke₄ ; bad₃ mar-tu mu-ri-iq;-ti-id-ni-im ; mu-du₃
+@seal 1
+1. i-me-er₃-ra
+2. dub-sar

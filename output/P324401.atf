@@ -1,0 +1,32 @@
+&P324401 = CUSAS 3 0709
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@obverse
+@envelope
+@obverse
+# (envelope fragments)
+@tablet
+@obverse
+1. 1 {tug₂}bar-si-us₂
+2. 1 {tug₂}ba-tab-tuh-hu-um [x-kam us₂]
+3. 5 {tug₂}nig₂-lam₂ 4-[kam us₂]
+4. 1 {tug₂}ša₃-ga-du₃ ba-tab-[tuh];-hu-um 4-kam us₂
+5. 1 {tug₂}sagšu ba-tab-tuh-hu-um ; 4-kam us₂
+6. [...]
+$ rest broken
+@reverse
+$ beginning broken
+1'. [puzur₄]-a-ku-um
+2'. [šu] ba-ti
+3'. [iti] maš-da₃-gu₇
+4'. [mu] {d}šu-{d}suen ; lugal uri₅{ki}-ma-[ke₄] ; e₂ {d}šara₂ umma{ki}-ka ; mu-du₃
+@seal 1
+# puzur-agum A
+1. šu-kab-ta₂
+2. a-zu
+3. dumu na-ra-am-i₃-li₂
+4. puzur₄-a-ku-um
+5. azlag₇ arad₂-zu

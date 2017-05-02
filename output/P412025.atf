@@ -1,0 +1,31 @@
+&P412025 = CUSAS 6 1534 A+B
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@tablet
+@obverse
+1. 5.4.0 š[e gur]
+2. še-ba nu-{giš}[kiri₆-e-ne-še₃]
+3. ki lu-lu-ta
+4. ba-ga-ru-um
+@reverse
+1. um-mi-a
+2. šu ba-ti
+3. iti šu-eš-[ša]
+4. mu en [{d}nanna] ; kar-[zi-da{ki} ba-hun]
+@envelope
+@obverse
+1. 5.4.0 še gur
+2. še-ba nu-{giš}kiri₆;-e-ne-še₃
+3. ki lu-lu-ta
+4. ba-ga-ru-um ; [um-mi]-a ; [...]-ke₄
+@reverse
+1. šu ba-ti
+2. iti šu-eš-ša
+$ (seal)
+3. mu en {d}nanna ; kar-zi-da{ki} ba-hun
+@seal 1
+1. en-nu-[um-i₃-li₂]
+2. arad₂ še-le-bu;-tum

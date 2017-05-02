@@ -1,0 +1,33 @@
+&P324226 = CUSAS 3 0376
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+1. [2.0.0 še gur]
+2. a₂ geme₂ kinkin₂-še₃ 
+#note: (=|HAR.HAR|)
+3. ki {d}IŠKUR-ILLAT-ta
+4. {d}ma-lik-ba-ni
+5. šu ba-an-ti
+@reverse
+1. [iti] še-KIN-ku₅
+$ (seal)
+2. [mu] us₂-sa {d}šu-{d}suen ; [lugal] uri₅{ki}-ma-ke₄ ; [na-du₃]-a mah {d}en-lil₂ ; [{d}ni]n-lil₂-ra mu-ne-du₃
+@tablet
+@obverse
+1. 2.0.0 še gur
+2. a₂ geme₂ kinkin₂-še₃ 
+#note: (=|HAR.HAR|)
+3. ki {d}IŠKUR-ILLAT-ta
+4. {d}ma-lik-ba-ni
+@reverse
+1. šu ba-an-ti
+2. iti še-KIN-[ku₅]
+3. mu us₂-sa [na-du₃-a];-mah mu-ne-du₃
+@seal 1
+# malik-bani
+1. {d}ma-lik-ba-ni
+2. arad₂ na-ra-am-i₃-li₂

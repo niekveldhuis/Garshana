@@ -1,0 +1,34 @@
+&P324120 = CUSAS 3 0641
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+1. 1 gu₂ 1 ma-[na] ; siki-gen
+2. 1 {gi}gurdub₂ siki ka;-tab si₃-ga  
+#note: (=|GA₂×GI₄|)
+3. ki {d}IŠKUR-ILLAT-ta
+4. aš-ta₂-kar₃
+@reverse
+1. šu ba-[an]-ti
+2. iti ezem-{d}šul-gi
+3. mu {d}šu-{d}su[en lugal ur]i₅{ki} [ma-ke₄ ; ma]-da za-a[b-ša-li{ki}] ; mu-h[ul]
+@tablet
+@obverse
+1. 1 gu₂ 1 ma-na ; siki-gen
+2. 1 {gi}gurdub₂ siki ka;-tab si₃-ga  
+#note: (=|GA₂×GI₄|)
+3. ki {d}IŠKUR-ILLAT-ta
+4. aš-ta₂-kar₃
+@reverse
+1. šu ba-an-ti
+2. iti ezem-{d}šul;-gi
+3. mu ma-da za;-ab-ša-li ; mu-hul
+# (IGI+UR not ligatured)
+@seal 1
+# aštaqqar A
+1. aš-ta₂-kar₃
+2. ugula uš-bar
+3. geme₂ a-bu-ni

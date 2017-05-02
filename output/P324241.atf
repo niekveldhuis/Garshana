@@ -1,0 +1,51 @@
+&P324241 = CUSAS 3 0608
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+1. [1 {tug₂}ba-tab-t]uh-hu-um-[tal₂] ; ME-{d}ištaran
+2. 1 {tug₂}bar-dul₅ šu-kab-ta
+3. 1 {tug₂}ša₃-ga-du₃-nig₂-lam₂ ; šu-kab-ta
+4. 2 {tug₂}nig₂-lam₂ 3-kam us₂
+5. 1 {tug₂}ta₂-ki-ru-um-tur ; {d}nin-{d}si₄-an-na 3-kam [us₂]
+6. 2 {tug₂}nig₂-lam₂-tur 4-kam us₂ ; {d}šu-bu-la
+@reverse
+1. [1 {tug₂}guz-za 4-kam us₂ ; {d}ma-mi-tum]
+2. [2 {tug₂}guz-za-tab-ba-gen]
+3. 4 [{tug₂}uš-bar]
+4. tug₂ ki-la₂ t[ag-ga]
+5. ki aš-t[a₂-kar₃-ta]
+6. puzur₄-a-ku-[ku-um]
+7. šu ba-[an-ti]
+8. iti [še-KIN-ku₅]
+9. mu us₂-[sa {d}šu-{d}suen] ; [lugal uri₅{ki}-ma-ke₄] ; na-du₃-a mah {d}[en-lil₂] ; [{d}nin-lil₂-ra mu-ne-du₃]
+@tablet
+@obverse
+1. 1 {tug₂}ba-tab-tuh-hu-um-tal₂ ; ME-{d}ištaran
+2. 1 {tug₂}bar-dul₅ šu-kab-ta
+3. 1 {tug₂}ša₃-ga-du₃-nig₂-lam₂ ; šu-kab-ta
+4. 2 {tug₂}nig₂-lam₂ 3!-kam us₂
+5. 1 {tug₂}ta₂-ki-ru-um-tur ; {d}nin-{d}si₄-an-na 3-kam ⸢us₂⸣
+6. 2 {tug₂}nig₂-lam₂-tur ; 4-kam us₂ {d}šu-bu-l[a]
+@reverse
+1. 1 {tug₂}guz-za 4-[kam us₂] ; {d}ma-m[i-tum]
+2. 2 {tug₂}guz-za-tab-ba-ge[n]
+3. 4 {tug₂}uš-bar
+4. tug₂ ki-la₂ tag-ga
+5. ki aš-ta₂-kar₃-ta
+6. puzur₄-a-ku-um
+7. šu ba-an-ti
+8. iti še-KIN-ku₅
+9. mu us₂-sa {d}šu-{d}suen ; lugal-e na-du₃-a-mah ; mu-ne-du₃
+@left
+1. 15
+@seal 1
+# puzur-agum A
+1. šu-kab-ta₂
+2. a-zu
+3. dumu na-ra-am-i₃-li₂
+4. puzur₄-a-ku-um
+5. azlag₇ arad₂-zu

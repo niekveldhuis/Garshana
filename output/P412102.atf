@@ -1,0 +1,38 @@
+&P412102 = Varia Neo-Sumerica, no. XX
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@tablet
+@obverse
+1. [0.0.1] sum-e-lum
+2. giri₃ ta-zi-zi
+# (sic ta-)
+3. [mu]-kuₓ(DU)
+4. [šu]-kab₂-ta₂
+5. šu-er₃-r[a]
+@reverse
+1. [šu ba-ti]
+2. ($blank$)
+3. [iti ...]-⸢x⸣
+4. [mu {d}šu-{d}su]en ; [lugal uri₅{ki}];-[ma-ke₄ ma-da] ; [za-ab-ša-li{ki}] ; mu-hul
+@envelope
+@obverse
+1. 0.0.1 sum-e-lum
+2. giri₃ ta₂-zi-[zi]
+# (sic ta₂-)
+3. mu-kuₓ(DU)
+4. šu-er₃-r[a]
+5. šu-kab₂-ta₂
+6. šu-er₃-r[a]
+@reverse
+1. šu [ba-ti]
+2. ($[seal]$)
+3. it[i ...]
+4. mu [{d}šu-{d}suen] ; lugal [uri₅{ki}];-ma-ke₄ [ma-da] ; za-ab-š[a-l]i{[ki]} mu-hul
+@seal 1
+1. šu-kab-[ta₂]
+2. a-[zu]
+3. šu-er₃-[ra]
+4. [arad₂-zu]

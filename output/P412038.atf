@@ -1,0 +1,40 @@
+&P412038 = CUSAS 6 1540 A+B
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@tablet
+@obverse
+1. 1 sag-munus
+2. nu-ur₂-{d}IŠKUR i₃-dab₅
+3. 1 sag-munus
+4. 8 sag-nita₂
+5. a-bi₂-a-ti ; i₃-dab₅
+6. ki za-bu-la-ta
+7. kišib lu₂-nig₂-dab₅-ke₄-ne
+@reverse
+1. u₄ kišib ti
+2. kišib za-bu-la ; zi-re-dam
+3. iti u₅-bi₂-gu₇
+4. mu us₂-sa si-ma;-num₂{ki} ba-hul
+@envelope
+@obverse
+1. 1 sag-munus
+2. nu-ur₂-{d}IŠKUR i₃-dab₅
+3. 1 sag-munus
+4. 8 sag-nita₂
+5. a-bi₂-a-ti i₃-dab₅
+6. ki za-bu-la-ta
+7. [kišib] lu₂-nig₂-dab₅-ke₄-ne
+@reverse
+1. u₄ kišib ti
+2. kišib za-bu-la
+3. zi-re-dam
+$ (seal)
+4. iti u₅-bi₂-gu₇
+5. mu us₂-sa si-ma-num₂{ki} ; ba-hul
+@seal 1
+1. za-bu-la
+2. dub-sar
+3. dumu i-ti-DINGIR

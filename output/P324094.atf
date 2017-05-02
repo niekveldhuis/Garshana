@@ -1,0 +1,32 @@
+&P324094 = CUSAS 3 0915
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+1. 10 kuš gu₄
+2. 50 kuš-udu
+3. 10 kuš maš₂
+4. ki {d}IŠKUR-ILLAT-ta
+5. [a]-na-ah-i₃-li₂
+@reverse
+1. [šu ba-ti]
+2. [iti ezem-{d}šul-gi]
+3. [mu ma₂-gur₈-mah ; mu-ne-dim₂]
+@tablet
+@obverse
+1. 10 kuš gu₄
+2. 50 kuš-udu
+3. 10 kuš maš₂
+4. ki {d}IŠKUR-ILLAT-ta
+@reverse
+1. a-na-ah-i₃-li₂
+2. šu ba-ti
+3. iti ezem-{d}šul-gi
+4. mu ma₂-gur₈-mah ; mu-ne-dim₂
+@seal 1
+# anahili A
+1. an-na-ah-i₃-li₂ ašgab
+2. dumu sa₂-ba

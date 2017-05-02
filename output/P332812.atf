@@ -1,0 +1,127 @@
+&P332812 = CUSAS 3 0972
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@obverse
+@column 1
+1. [0.3.3 zi₃-gu sig₅]
+2. [1.0.0] zi₃-[gu-us₂ gur]
+3. 0.3.3 dabin
+4. 0.0.4 5 sila₃ zi₃-sig₁₅
+5. [0.1.0.0 sila₃] sila₃ zi₃-kum-sig₅
+6. [ninda]-še₃
+7. [0.0.1 5] sila₃ zi₃-gu₂-nida
+8. [5] sila₃ i₃-giš [bar]a₂ ak
+9. [5] sila₃ zu₂-lum
+10. [nig₂-i₃]-de₂-a-še₃
+11. [0.0.1] 2 sila₃ nig₂-ar₃-ra-sig₅
+12. 0.0.1 2 sila₃ ar-za-na
+13. 0.0.1 2 sila₃ ba-ba še
+14. 0.0.1 2 sila₃ gu₂-gal al-ar₃-ra
+15. 0.0.1 2 sila₃ gu₂-tur al-us₂-sa
+16. 5 sila₃ ku₆-sin₂
+17. 15 ki-ri-ip ar-gi₅-n[um₂]
+18. 30 ku₆ al-dar-ra
+19. 7 1/2 sila₃ mun-sig₅ al;-nag₄-ga₂ 
+#note: (=GUM)
+20. 0.0.1 gazi
+21. 0.0.1 še-lu₂
+22. 5 sila₃ šim-sig₅ al-nag₄-ga₂
+23. 60 sa {u₂}|U.EN|
+24. {dug}utul₂-še₃
+25. 3 sila₃ sum-sikil
+26. 2 sila₃ za-ha-din
+27. 1/2 sila₃ za₃-hi-li
+28. 1/2 sila₃ gar₃-šum
+29. 1/2 sila₃ si₂-mi-tum
+30. 1 gu₂ 20 ma-na bappir-sig₅
+@column 2
+1. [1 gu₂ 40 ma-na bappir₂-gen]
+2. 1.[2.2 2 1/2 sila₃ munu₄-si-e₃ gur]
+3. 0.4.0 nig₂-ar₃-r[a-sig₅]
+4. 1.0.0 nig₂-ar₃-ra-gen gur
+5. kaš sig₅ 2-ta 1.0.0 gur-kam ; u₃ kaš gen 2.0.0 gur-kam
+6. 5 sila₃ i₃-šah₂
+7. 1/2 ma-na pu₃-su₂-lum
+8. pu₃-su₂-lum-še₃
+9. 2 sila₃ zi₃-sig₁₅
+10. [TUG₂-NI ku]-ur₂ gu-ru-de₃
+11. [1/2 sil]a₃ i₃-giš bara₂ ak
+12. ⸢ì⸣-ba {giš}gu-za
+13. 5 sa gi-NE
+14. ⸢gi⸣-izi-la₂-še₃
+15. [sa₂-d]u₁₁ iti-1-kam
+16. [5 ma-na] bappir-sig₅
+17. 8 ma-[na ba]ppir₂-gen
+18. 0.0.2.4 sila₃ munu₄-si-e₃
+19. 0.0.1 5 sila₃ nig₂-ar₃-ra-sig₅
+20. 0.0.2 4 sila₃ nig₂-ar₃-r[a-gen]
+21. kaš sig₅ 2-ta [0.0.2-kam] ; u₃ kaš gen 0.0.4-[kam]
+22. 0.0.5 sila₃ dabin
+23. 4 sila₃ zi₃-sig₁₅
+24. 4 sila₃ [zi₃]-kum-sig₅
+25. 2 sila₃ zi₃-ba-ba sig₅
+26. nig₂-dab₅
+27. 12 sa gi-NE
+28. ninda ba-ra-du₈
+@reverse
+@column 1
+1. 6 sila₃ giš-i₃ ba[ra₂ ak]
+2. 4 sila₃ [ba-ba-munu₄]
+3. 4 sila₃ [eša]
+4. 4 sila₃ z[u₂-lum]
+5. 1/3 sila₃ i₃-giš b[ara₂ a]k
+6. nig₂-la₂-la₂-rum-še₃
+7. 60 {dug}sila₃-bur-zi
+8. nig₂-dab₅ sag u₄-sakar u₃ e₂-u₄-15
+9. ($blank$)
+10. šu-nigin₂ 0.3.3 zi₃-gu sig₅
+11. šu-nigin₂ 1.0.0 zi₃-gu-us₂ gur
+12. šu-nigin₂ 0.4.2 dabin
+13. šu-nigin₂ 0.0.5 1 sila₃ zi₃-sig₁₅
+14. šu-nigin₂ 2 sila₃ zi₃-ba-ba sig₅
+15. šu-nigin₂ 0.0.1.5 sila₃ zi₃ gu₂-nida
+16. šu-nigin₂ 0.1.0 4 sila₃ zi₃-kum-sig₅
+17. šu-nigin₂ 0.4.2 7 sila₃ nig₂-ar₃-ra-sig₅
+18. šu-nigin₂ 1.0.2 4 sila₃ nig₂-ar₃-ra-gen gur
+19. šu-nigin₂ 0.0.1 2 sila₃ ar-za-na
+20. šu-nigin₂ 0.0.1 2 sila₃ ba-ba še
+21. šu-nigin₂ 0.0.1 2 sila₃ gu₂-gal al-ar₃-ra
+22. šu-nigin₂ 0.0.1 2 sila₃ gu₂-tur al-us₂-sa
+23. šu-nigin₂ 1 gu₂ 24 ma-na bappir-sig₅
+24. šu-nigin₂ 1 gu₂ 48 ma-na bappir₂-gen
+25. šu-nigin₂ 1.2.4.6 1/2 sila₃ munu₄-si-e₃ gur
+26. šu-nigin₂ 4 sila₃ ba-ba-munu₄
+27. šu-nigin₂ 4 sila₃ eša
+28. [šu-nigin₂ 4 sila₃] š[im-sig₅ al-nag₄-ga₂]
+29. [šu-nigin₂ 5 sila₃ ku₆-sin₂]
+@column 2
+1. šu-nigin₂ 15 ki-ri-ip ar-gi₅-num₂
+2. šu-nigin₂ 30 ku₆ al-dar-ra
+3. šu-nigin₂ 7 1/2 sila₃ mun-sig₅ al-nag₄;-ga₂
+4. šu-nigin₂ 60 sa {u₂}|U.EN|
+5. šu-nigin₂ 0.0.1 gazi
+6. šu-nigin₂ 0.0.1 še-lu₂
+7. šu-nigin₂ 3 sila₃ sum-sikil
+8. šu-nigin₂ 1 sila₃ za-ha-din
+9. šu-nigin₂ 1/2 sila₃ za₃-hi-li
+10. šu-nigin₂ 1/2 sila₃ gar₃-šum
+11. šu-nigin₂ 1/2 sila₃ si₂-mi-tum
+12. šu-nigin₂ 6 sila₃ giš-i₃ bara₂ ak
+13. šu-nigin₂ 5 5/6 sila₃ i₃-giš bara₂ ak
+14. šu-nigin₂ 5 sila₃ i₃-šah₂
+15. šu-nigin₂ 9 sila₃ zu₂-lum
+16. šu-nigin₂ 1/2 ma-na pu₃-su₂-lum
+17. šu-nigin₂ 17 sa gi-NE
+18. šu-nigin₂ 60 {dug}sila₃-bur-zi
+$ single ruling
+19. sa₂-du₁₁ ki-a-nag šu;-kab-ta₂
+20. ki {d}IŠKUR-ILLAT-ta
+21. [b]a-zi
+22. [š]a₃ GAR-ša-an-na{ki}
+23. [iti] še-KIN-ku₅
+24. [mu us₂-sa {d}]šu-{d}suen ; [lugal-e na-du₃-a-mah {d}en-lil₂] {d}nin;-[lil₂-ra mu-ne-du₃]
+@left
+1. gaba-ri

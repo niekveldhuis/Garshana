@@ -1,0 +1,143 @@
+&P325880 = CUSAS 3 1025
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@obverse
+@column 1
+1. [0.0.1 kaš sig₅ 0.1.1 ta]
+2. [0.0.1 k]aš s[ig₅]
+3. 0.0.3 kaš gen
+4. 0.0.2 nig₂-ar₃-ra-s[ig₅]
+5. 0.0.2.5 sila₃ ar-za-na
+6. 5 sila₃ gu₂-gal al-ar₃-ra
+7. 5 sila₃ gu₂-tur al-us₂-sa
+8. 3 udu ba-ug₇
+9. [n]+1 ad₃ udu 
+#note: (=|UDU×BAD|)
+10. [0.0].1 mun-gen
+11. {⸢dug⸣}utul₂-gal-še₃
+12. 30 sa gi-NE
+13. [tu₇] ba-ra-šeg₆
+14. [ka]š-de₂-a {d}nin-{d}si₄;-an-na a-hu-a
+15. 0.0.2 kaš sig₅ 0.1.1-ta
+16. 6.1.4.5 sila₃ kaš gen gur
+17. 0.2.0.3 sila₃ ninda-gal-|GIŠ.AŠ| ; 1 sila₃ du₈
+18. 2.1.1.1 sila₃ ninda-gal-gen ; 1 sila₃ du₈ gur
+19. 0.0.3.1 1/3 sila₃ ninda-zi₃-gu-us₂
+20. 1.4.2.2 1/3 sila₃ ninda-dabin ; gur
+21. 0.0.2 ninda šu-ra-gen
+22. 2.2.0 ninda-du₈ gur
+23. 1 udu niga-gu₄-e-us₂-sa
+24. 1 ud₅
+25. 1 maš₂
+26. ba-ug₇ mu eren₂-na-še₃
+27. 0.2.1 nig₂-ar₃-ra-sig₅
+28. 0.0.1.5 sila₃ ar-za-na
+29. 5 sila₃ ba-ba še
+30. 5 sila₃ gu₂-gal al-ar₃-ra
+31. [5 sila₃] gu₂-tur al-us₂-sa
+32. [n] ad₃ udu  
+#note: (=|UDU×BAD|)
+@column 2
+1. [0.0.1.5? sila₃ mun-gen]
+2. [{dug}utul₂-gal]-še₃
+3. [n sa gi]-NE
+4. [tu₇] ba-[r]a-šeg₆
+5. 380 {dug}sila₃-bur-z[i]
+6. tu₇ ba-ak
+7. kaš-de₂-a {d}inanna ; zabalam₄{ki} 
+#note: (=|MUŠ₃.ZA.UNUG|)
+8. 1.1.1 kaš gen gur
+9. 0.0.2.6 [sila₃] ninda-gal |GIŠ.AŠ| 1sila₃ du₈
+10. 0.2.2.3 sila₃ ninda-gal-gen ; 1-sila₃ du₈
+11. 9 sila₃ 15 g[in₂ ninda-zi₃-gu-us₂]
+12. 0.1.1.7 2/3 sila₃ n[inda dabin]
+13. 0.1.3.5 sila₃ ni[nda du₈]
+14. 0.0.3 nig₂-ar₃-ra-[si]g₅
+15. 5 sila₃ ar-za-na
+16. 2 sila₃ ba-ba še
+17. 3 ad₃ udu 
+#note: (=|UDU×BAD|)
+18. 5 sila₃ mun-gen
+19. {uruda}šen-še₃
+20. 60 sa gi-NE
+21. tu₇ ba-ra-šeg₆
+22. 120 {dug}sila₃-bu[r-zi]
+23. tu₇ ba-a[k]
+24. kaš-de₂-a {d}ne₃-[eri₁₁-gal] ; dumu da-d[a(-?)]
+25. 1.2.3 kaš ge[n gur]
+26. 8 sila₃ ninda-gal |GI[Š.AŠ]| ; [1 sila₃ du₈]
+27. 0.1.0.9 sila₃ ninda-gal-gen ; 1 sila₃ d[u₈]
+28. 4 5/6 sila₃ ninda-zi₃-[gu-us₂]
+29. 0.1.2.8 [5/6 sila₃ ninda dabin]
+@reverse
+@column 1
+1. [0.2.1 ninda du₈]
+2. 5 sila₃ nig₂-ar₃-ra-s[ig₅]
+3. 5 sila₃ ar-za-n[a]
+4. 5 sila₃ gu₂-gal al-ar₃-ra
+5. 5 sila₃ gu₂-tur al-u[s₂]-sa
+6. 2 ad₃ [udu] 
+#note: (=|UDU×BAD|)
+7. 5 sila₃ mun-[gen]
+8. {dug}utul₂-gal-še₃
+9. 20 sa gi-NE
+10. tu₇ ba-ra-šeg₆
+11. 60 {dug}sila₃-bur-zi
+12. tu₇ ba-ak
+13. kaš-de₂-a {d}inanna uru{ki}
+14. 0.3.3 kaš gen
+15. 0.0.1 ninda-gal |GIŠ.AŠ| 1-sila₃ du₈
+16. 0.1.0.1 sila₃ ninda-gal-gen 1-sila₃ du₈
+17. 2 1/2 sila₃ ninda zi₃-gu-us₂
+18. 0.0.2.3 sila₃ ninda dabin
+19. 0.0.2 ninda du₈
+20. 5 sila₃ nig₂-ar₃-ra-sig₅
+21. 5 sila₃ ar-za-na
+22. 5 sila₃ gu₂-gal al-ar₃-ra
+23. 2 sila₃ gu₂-tur al-u[s₂-sa]
+24. 2 ad₃ u[du] 
+#note: (=|UDU×BAD|)
+25. {dug}utul₂-gal-[še₃]
+26. 50 sa gi-NE
+27. tu₇ ba-ra-šeg₆
+28. 120 {dug}sila₃-bur-zi
+29. tu₇ ba-ak
+30. kaš-de₂-a {d}ne₃-eri₁₁-[gal] ; dumu e₂-e₂-z[i-(x)]
+$ single ruling
+31. [šu-nigin₂ 1 udu niga]-gu₄-e-us₂-sa
+32. [šu-nigin₂ 1 uz]
+@column 2
+1. [šu-nigin₂ 1] maš₂
+2. [šu-nigin₂] 0.2.4.7 sila₃ ninda-gal-giš-AŠ 1 sila₃ du₈
+3. [šu-nigin₂] 2.0.4.4 sila₃ ninda-gal-gen ; 1 sila₃ du₈ gur
+4. [šu-nigin₂] 0.0.2 ninda šu-ra-gen
+5. [šu-nigin₂] 0.0.3.7 5/6 sila₃ 5 gin₂ ninda-zi₃;-gu₂-us₂
+6. šu-nigin₂ 2.2.3.2 sila₃ 10 gin₂ ; ninda-dabin gur
+7. šu-nigin₂ 3.1.0.5 sila₃ ninda-du₈ gur
+8. šu-nigin₂ 0.2.2 nig₂-ar₃-ra-sig₅
+9. šu-nigin₂ 0.0.5.5 sila₃ ar-za-na
+10. šu-nigin₂ 7 sila₃ ba-ba še
+11. šu-nigin₂ 0.0.2.2 sila₃ gu₂-gal al-ar₃-ra
+12. šu-nigin₂ 0.0.2.2 sila₃ gu₂-[tur al]-us₂-sa
+13. šu-nigin₂ 0.0.1 bap[pir?]-sig₅
+14. šu-nigin₂ 0.0.3 kaš sig₅ 1 1/2-ta
+15. šu-nigin₂ 9.4.2.5 sila₃ kaš gen
+16. šu-nigin₂ 18 ad₃ udu 
+#note: (=|UDU×BAD|)
+17. šu-nigin₂ 0.0.3.5? [sil]a₃ mun-gen
+18. šu-nigin₂ 450 sa gi-NE
+19. šu-nigin₂ 680 {dug}sila₃-bur-zi
+$ single ruling
+20. kaš-de₂-a dingir-re-e-ne
+21. zi-ga
+22. ME-{d}ištaran
+23. ki {d}IŠKUR-ILLAT-ta
+24. ba-zi
+25. ša₃ GAR-ša-an-na{ki}
+26. iti še-KIN-ku₅
+27. mu en-am-gal-an-na ; en {d}inanna unu{ki}-ga ; ba-hun
+@left
+1. [...]

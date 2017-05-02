@@ -1,0 +1,30 @@
+&P324119 = CUSAS 3 0640
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+1. 40 ma-na siki-g[ir₂];-[gul]
+2. ki {d}IŠKUR-ILLAT-ta
+3. aš-ta₂-kar₃
+4. šu ba-an-ti
+@reverse
+1. iti ezem-{d}šul-gi
+$ (seal)
+2. [mu {d}]šu-{d}suen ; [lugal-e ma]-da za-ab-ša;-[li{ki}] mu-hul
+@tablet
+@obverse
+1. 40 ma-na siki-gir₂;-gul
+2. ki {d}IŠKUR-ILLAT-ta
+3. aš-ta₂-kar₃
+4. šu ba-an-ti
+@reverse
+1. iti ezem-{d}šul;-gi
+2. mu ma-da za-ab;-ša-li{ki} mu;-hul
+@seal 1
+# aštaqqar A
+1. aš-ta₂-kar₃
+2. ugula uš-bar
+3. geme₂ a-bu-ni

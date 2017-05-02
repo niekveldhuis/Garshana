@@ -1,0 +1,46 @@
+&P324126 = CUSAS 3 0620
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+1. [1/3]{ša} [4 gin₂ siki {tug₂}a₂-gu₄];-hu-um;-lugal
+2. [10] gin₂ siki {tug₂}nig₂-lam₂-us₂
+3. 5/6 ma-na 6 gin₂ siki ŠID-<ma>-tug₂-lugal
+4. 1 2/3 ma-na 5 gin₂ siki {tug₂}nig₂-lam₂ ; šu-kab-ta₂
+5. 16 ma-na siki {tug₂}nig₂-lam₂ 3-kam us₂
+6. 33 ma-na siki {tug₂}guz-za [x]-kam us₂
+7. 1 gu₂ siki {tug₂}[guz-za-us₂]
+@reverse
+1. 3 {gi}gurdub₂ siki ka-tab [si₃-ga] 
+#note: (=|GA₂×GI₄|)
+2. ki {d}IŠKUR-ILLAT-ta
+3. [aš]-ta₂-kar₃ ugula uš-bar
+4. [šu] ba-an-ti
+$ (seal)
+5. [iti] zahₓ(ŠEŠ)-da-gu₇
+6. [mu] {d}šu-{d}suen lugal ; uri₅{ki}-ma-ke₄ ma-da ; [za]-ab-ša-li{ki} mu;-hul
+@tablet
+@obverse
+1. 1/3{ša} 4 gin₂ siki tug₂ a₂-gu₄;-hu-um-lugal
+2. 10 gin₂ siki {tug₂}nig₂-lam₂-us₂
+3. 5/6 ma-na 6 gin₂ siki ŠID-ma;-tug₂-lugal
+4. 1 2/3 ma-na 5 gin₂ siki {tug₂}nig₂-lam₂ ; šu-kab-ta₂
+5. 16 ma-na siki {tug₂}nig₂-lam₂ ; 3-kam us₂
+@reverse
+1. 33 ma-na siki {tug₂}guz-za-us₂
+2. 1 gu₂ siki {tug₂}guz-za 4-kam us₂
+3. 3 {gi}gurdub₂ siki ka-tab si₃-[ga] 
+#note: (=|GA₂×GI₄|)
+4. ki {d}IŠKUR-ILLAT-ta
+5. aš-ta₂-kar₃
+6. šu ba-an-ti
+7. iti zahₓ(ŠEŠ)-da-gu₇
+8. mu ma-da za-ab;-ša-li{ki} mu-hul
+@seal 1
+# aštaqqar A
+1. aš-ta₂-kar₃
+2. ugula uš-bar
+3. geme₂ a-bu-ni

@@ -1,0 +1,43 @@
+&P324262 = CUSAS 3 0651
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+1. [1 {tug₂}nig₂-lam₂-us₂]
+2. [1 {tug₂}nig₂-lam₂ 3-kam us₂]
+3. [1] {tug₂}guz-za [3-kam] us₂
+4. [1] {tug₂}bar-dul₅-tur 3-kam us₂
+5. [1] {tug₂}guz-za 4-kam us₂
+6. [2] {tug₂}guz-za-gen
+@reverse
+1. [n] {tug₂}bar-si-gi₆
+2. ki {d}IŠKUR-ILLAT-ta
+3. puzur₄-a-ku-um
+4. šu ba-an-ti
+5. [iti ezem-mah]
+6. [mu ma-da za-ab-ša];-[li{ki} mu-hul]
+@tablet
+@obverse
+1. 1 {tug₂}nig₂-lam₂-us₂
+2. 1 {tug₂}nig₂-lam₂ 3-kam us₂
+3. 1 {tug₂}guz-za 3-[kam us₂]
+4. 1 {tug₂}bar-dul₅-tur [3-kam us₂]
+5. 1 {tug₂}guz-za 4-kam us₂
+6. 2 {tug₂}guz-za-g[en]
+7. [n {tug₂}bar-si-gi₆]
+@reverse
+1. [ki {d}IŠKUR-ILLAT-ta]
+2. [puzur₄-a-ku]-ku-[um]
+3. [šu b]a-an-ti
+4. [iti] ezem-mah
+5. [m]u ma-da za-ab;-[ša]-li{ki} mu;-[h]u[l]
+@seal 1
+# puzur-agum A
+1. šu-kab-ta₂
+2. a-zu
+3. dumu na-ra-am-i₃-li₂
+4. puzur₄-a-ku-um
+5. azlag₇ arad₂-zu

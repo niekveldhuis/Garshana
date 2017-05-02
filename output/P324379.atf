@@ -1,0 +1,33 @@
+&P324379 = CUSAS 3 1133
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+1. 7.1.5 še gur
+2. mu mu[nu₄-še₃]
+3. ki [{d}IŠKUR-ILLAT-ta]
+4. [šu-la-num₂]
+5. [šu ba-ti]
+@reverse
+$ (seal)
+1. iti ezem-{d}šu-{d}suen
+2. mu ma-da za-ab;-ša-li{ki} ; mu-hul
+@tablet
+@obverse
+1. 7.1.5 [še gur]
+2. mu munu₄-še₃
+3. ki {d}IŠKUR-ILLAT-[ta]
+4. šu-la-num₂
+@reverse
+1. šu ba-ti
+2. iti ezem-{d}šu-{d}suen
+3. mu ma-da za-ab;-ša-li{ki} ; mu-hul
+@seal 1
+# šullanum
+1. šu-la-num₂
+2. dumu lu₂-aga
+3. munu₄-mu₂ 
+#note: (="munu₆-mu₂")

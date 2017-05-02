@@ -1,0 +1,37 @@
+&P324318 = CUSAS 3 0457
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+1. [0.4.3 eša]
+2. 12 ma-na siki š[e 0.0.3!.-ta]
+3. 2 sila₃ i₃-giš š[e 0.0.4-ta]
+4. sig₄ du₈-de₃
+5. [a₂ 5-sila₃-ta]
+@reverse
+1. [ki {d}IŠKUR-ILLAT-ta]
+2. ME-e₂-a
+3. šu ba-an-ti
+$ (seal)
+4. iti ezem-an-na
+5. mu ma-da za-ab;-ša-li[{ki} mu-hul]
+@tablet
+@obverse
+1. 0.4.3 eša
+2. 12 ma-na siki še 0.0.2-[ta]
+3. 2 sila₃ i₃-giš še 0.0.4-ta
+4. sig₄ du₈-de₃
+5. a₂ 5-sila₃-ta
+@reverse
+1. ki {d}IŠKUR-ILLAT-ta
+2. ME-e₂-a
+3. [šu ba-an-ti]
+4. [iti ezem-an-na]
+5. [mu ma-da za-ab];-[ša-li{ki} mu-hul]
+@seal 1
+# ME-ea
+1. me-e₂-[a]
+2. dumu-munus? mi-[...]-ša?

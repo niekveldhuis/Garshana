@@ -1,0 +1,41 @@
+&P412034 = CUSAS 6 1564 A+B
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@tablet
+@obverse
+1. 1200 gir ab-ba
+2. 0.1.4 ku₆ du₅-rum
+3. 300 ku₆-NI
+4. 100 ku₆-e-sir₂
+5. 60 ku₆ mun
+6. 0.2.3 ku₆-sin₂
+7. # (line erased)
+@reverse
+1. ki ku₃-{d}[nanna-t]a
+2. šu-er₃-[ra]
+3. šu ba-[ti]
+4. iti [a₂-ki-ti]
+5. mu {d}šu-[{d}suen] ; lugal uri₅{ki}-ma-ke₄ ; ma₂-gur₈ mah {d}en-lil₂ ; nin-lil₂-ra mu;-ne-[dim₂]
+@envelope
+@obverse
+1. 1200 ku₆ ab-ba
+2. 0.1.4 ku₆ du₅-rum
+3. 300 ku₆-NI
+4. 100 ku₆-e-s[ir₂]
+5. 60 ku₆ mun
+6. [0.2].3 ku₆ sin₂
+@reverse
+1. ki ku₃-{d}nanna-ta
+2. šu-er₃-ra
+3. šu ba-ti
+$ (seal)
+4. iti a₂-ki-ti
+5. mu {d}šu-{d}suen lugal-e ; ma₂-gur₈ mah {d}en-lil₂ ; {d}nin-lil₂-ra mu-ne-dim₂
+@seal 1
+1. šu-kab-ta₂
+2. a-zu
+3. šu-er₃-ra
+4. arad₂-zu

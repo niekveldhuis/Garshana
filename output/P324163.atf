@@ -1,0 +1,48 @@
+&P324163 = CUSAS 3 1058
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+1. 1 [tu{mušen}]
+2. 2 tu-[gur₄{mušen}]
+3. [ba-ug₇]
+4. [mušen]-bi ki-zah₂ [i₃-gal₂] 
+#note: (=|HA.A|)
+5. {[d]}ma-lik-ba-[ni i₃-dab₅]
+6. [sim-da]
+@reverse
+1. da-da-a sipa mušen-na
+2. igi [a-pi]-li₂
+3. igi er₃-ra-[ba-ni]
+4. igi šu-eš₄-ta[r₂ šu-ku₆]
+5. igi šu-[eš₄-tar₂ šu-ku₆ min]
+$ (seal)
+6. [ša₃ GAR]-ša-an-n[a{ki}]
+7. iti ki-siki-{d}nin-a-zu
+8. mu {d}šu-{d}suen lugal uri₅{ki}-ma-ke₄ ma₂-gur₈-mah ; [{d}en-lil₂ {d}nin-lil₂-ra] ; [mu-ne-dim₂]
+@tablet
+@obverse
+1. 1 tu{mušen}
+2. 2 tu-gur₄{mušen}
+3. ba-ug₇
+4. mušen-bi ki-zah₂ i₃-gal₂ 
+#note: (=|HA.A|)
+5. {d}ma-lik-ba-ni
+6. i₃-dab₅
+7. sim-da
+@reverse
+1. da-da-a sipa mušen-na
+2. igi a-pi-li₂
+3. igi er₃-ra-ba-ni
+4. igi šu-eš₄-tar₂ šu-ku₆
+5. igi šu-eš₄-tar₂ šu-ku₆ min
+6. ša₃ GAR-ša-an-na{ki}
+7. iti ki-siki-{d}nin-a-zu
+8. mu {d}šu-{d}suen lugal ; uri₅{ki}-ma-ke₄ ; ma₂-gur₈-mah {d}en-lil₂ ; {d}nin-lil₂-ra mu-ne;-dim₂
+@seal 1
+# dada'a A
+1. da-a-a
+2. arad₂ šu-kab-ta

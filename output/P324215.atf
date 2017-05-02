@@ -1,0 +1,30 @@
+&P324215 = CUSAS 3 1304
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+1. [10 dug 0.0.3-ta]
+2. ki {d}IŠKUR-ILLAT-ta
+3. {d}ma-lik-ba-ni
+4. šu ba-an-ti
+@reverse
+$ (seal)
+1. iti ezem-{d}šu-{d}su[en]
+2. mu ma-da za-ab;-ša-li{ki} mu;-[hul]
+@tablet
+@obverse
+1. 10 dug 0.0.3-ta
+2. ki {d}IŠKUR-ILLAT-[ta]
+3. {d}ma-lik-ba-[ni]
+@reverse
+1. [šu ba-an-ti]
+2. [($single ruling$)]
+3. [iti ezem-{d}šu-{d}suen]
+4. [mu ma-da za-ab];-[ša-li{ki} mu-hul]
+@seal 1
+# malik-bani
+1. {d}ma-lik-ba-ni
+2. arad₂ na-ra-am-i₃-li₂

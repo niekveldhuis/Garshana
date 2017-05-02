@@ -1,0 +1,39 @@
+&P324211 = CUSAS 3 0461
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+# (envelope attached)
+1. 14.2.0 ziz₂-gibil gur
+2. ziz₂-ba-na imgaga₃ 5 sila₃ ; 7-gin₂-ta i₃-gal₂
+3. 5.3.0 ziz₂ sumun gur
+4. ziz₂-ba-na imgaga₃ 4-sila₃-ta i₃;-gal₂
+5. a₂ geme₂ kinkin₂-še₃ 
+#note: (=|HAR.HAR|)
+@reverse
+1. [ki {d}IŠKUR-ILLAT-ta]
+2. [{d}ma-lik]-ba-ni
+3. šu ba-an-ti
+4. iti ezem-[...]
+5. mu [{d}šu-{d}suen lugal] ; ur[i₅{ki}-ma-ke₄ ma];-da za-[ab-ša-li];{ki} mu-hul
+@tablet
+@obverse
+1. 14.2.0 ziz₂-gibil gur
+2. ziz₂-ba-na imgaga₃ ; [5 sila₃ 7-gin₂-ta i₃]-gal₂
+3. [5.3.0 ziz₂-x gur]
+4. [ziz₂-ba-na imgaga₃ 4-sila₃-ta i₃-gal₂]
+5. [a₂ geme₂ kinkin₂-še₃] 
+#note: (=|HAR.HAR|)
+@reverse
+1. [ki {d}IŠKUR-ILLAT-ta]
+2. [{d}ma-lik-ba-ni]
+3. [šu ba-an-ti]
+4. iti ezem-[...]
+5. mu [{d}šu-{d}suen lugal] ; ur[i₅{ki}-ma-ke₄ ma];-da za-[ab-ša-li];{ki} mu-hul
+@seal 1
+# malik-bani
+1. {d}ma-lik-ba-ni
+2. arad₂ na-ra-am-i₃-li₂

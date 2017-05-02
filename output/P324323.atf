@@ -1,0 +1,35 @@
+&P324323 = CUSAS 3 0452
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+1. 0.0.1.8 sila₃ [še]
+2. si-i₃-[tum]
+3. a₂ sig₄ g[a₆-ga₂]
+4. u₃ al-tar-ra
+5. [š]a-at-er₃-ra
+@reverse
+1. [in]-da-gal₂
+2. ša₃ GAR-ša-an-na{ki}
+$ (seal)
+3. iti ezem-mah
+4. mu {d}šu-{d}suen [lugal] ; uri₅{ki}-ma-ke₄ ; [m]a-da za-ab-ša-[li];{ki} mu-[hul]
+@tablet
+@obverse
+1. 0.0.1.8 sila₃ še
+2. si-i₃-tum
+3. a₂ sig₄ ga₆-ga₂
+4. u₃ al-tar-ra
+5. ša-at-er₃-ra
+@reverse
+1. [in]-da-gal₂
+2. ša₃ GAR-ša-an-na{ki}
+3. iti ezem-mah
+4. mu {d}šu-{d}suen [lugal] ; uri₅{ki}-ma-ke₄ ; [m]a-da za-ab-ša-[li];{ki} mu-[hul]
+@seal 1
+# šat-erra
+1. ša-at-{d}er₃-ra
+2. dumu-munus bi-[...]

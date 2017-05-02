@@ -1,0 +1,32 @@
+&P324191 = CUSAS 3 0736
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+1. [1 {tug₂}nig₂-lam₂-AB] ; šu-kab-ta
+2. 1 {tug₂}ša₃-ga-du₃ [nig₂-lam₂] ; šu-kab-ta
+3. [ki puzur₄-a]-ku-um-[ta]
+@reverse
+1. [aš-ta₂-kar₃]
+2. [šu ba-an-ti]
+3. [iti ezem-mah]
+4. [mu us₂-sa {d}šu-{d}suen] ; [lugal uri₅{ki}-ma-ke₄] ; [ma₂-gur₈-mah mu];-[du₃]
+@tablet
+@obverse
+1. 1 {tug₂}nig₂-lam₂-AB ; šu-kab-ta₂
+2. 1 {tug₂}ša₃-ga-du₃ ; nig₂-lam₂ šu-kab-ta₂
+3. ki puzur₄-a-ku-um;-ta
+@reverse
+1. aš-ta₂-kar₃
+2. šu ba-an-ti
+3. iti ezem-mah
+4. mu us₂-sa {d}šu-{d}suen ; [lug]al uri₅{ki}-ma-ke₄ ; ma₂-gur₈-mah mu;-du₃
+@seal 1
+# inhanum
+1. šu-kab-ta₂ a-zu
+2. dumu na-ra-am-i₃-li₂
+3. še-er!("in-ha-num₂")?-ha-num₂
+4. dub-sar arad₂-zu

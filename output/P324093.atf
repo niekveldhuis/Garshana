@@ -1,0 +1,30 @@
+&P324093 = CUSAS 3 0837
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+1. [0.0.1 dabin]
+2. [kuš a-gar gu₇-a-še₃]
+3. [ki {d}IŠKUR-ILLAT-ta]
+4. [a-na]-ah-i₃-[li₂]
+5. šu ba-[an-ti]
+@reverse
+1. iti ki-siki-{d}nin-a-zu
+2. [mu na-du₃-a mah] ; [{d}en-lil₂ {d}nin-lil₂-ka] ; [mu]-ne-du₃
+@tablet
+@obverse
+1. 0.0.1 dabin
+2. kuš a-gar gu₇-a-še₃
+3. ki {d}IŠKUR-ILLAT-ta
+4. a-na-ah-i₃-li₂
+5. šu ba-an-ti
+@reverse
+1. iti ki-siki-{d}nin-a-zu
+2. mu [na-du₃-a-mah] ; [{d}en-lil₂ {d}nin-lil₂-ra] ; [mu]-ne-du₃
+@seal 1
+# anahili A
+1. an-na-ah-i₃-li₂ ašgab
+2. dumu sa₂-ba

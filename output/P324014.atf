@@ -1,0 +1,59 @@
+&P324014 = CUSAS 3 0667
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+1. 1/2 ma-na 8 gin₂ siki tug₂ ⸢a₂⸣;-gu₄-hu-um-tal₂
+2. 1/2 ma-na 7 gin₂ siki {tug₂}nig₂-lam₂-lugal
+3. 1 2/3 ma-na 8 gin₂ siki {tug₂}nig₂-lam₂
+4. 2 ma-na 15 gin₂ siki ŠID-dul₅-lugal
+5. 1/2 ma-na 6 gin₂ siki ŠID-dul₅
+6. 3 5/6 ma-na siki {tug₂}nig₂-lam₂ šu-ka[b-ta(2)]
+7. 2 1/2 ma-na siki {tug₂}guz-za šu-[kab-ta(2)]
+8. [1]6 ma-na [siki]-{tug₂}ba-tab-tuh-hu-um 3-kam us₂
+9. [3]0 ma-n[a siki] {tug₂}nig₂-lam₂ 3-kam us₂
+10. [5]0 ma-na siki {tug₂}guz-za [3]-kam us₂
+11. [4] 1/2 ma-na siki {tug₂}aktum 3-[kam] us₂
+12. 8 ma-na siki ŠID-tug₂ 3-[kam us₂]
+13. 15 ma-na siki {tug₂}ba-tab-tuh-hu-um ; 4-[kam us₂]
+@reverse
+1. [n g]u₂ 15 ma-na siki {tug₂}nig₂-lam₂ ; 4-kam us₂
+2. [n] gu₂ siki {tug₂}guz-za 4-kam us₂
+3. [n]+11 ma-na siki {tug₂}aktum 4-kam us₂
+4. [n]+2 gu₂ siki {tug₂}guz-za-gen
+5. 14 {gi}gurdub₂ siki ka-tab si₃-ga 
+#note: (=|GA₂×GI₄|)
+$ single ruling
+6. ki a-lim-ma-ta
+7. {d}IŠKUR-ILLAT šu ba-t[i]
+8. giri₃ puzur₄-a-ku-um
+# (translit. CUSAS 3 0667: {d}puzur₄-a-ku-um, {d} probably wrong)
+9. iti u₅-bi₂-gu₇
+10. mu {d}šu-{d}suen lugal uri₅{ki};-ma-ke₄ ma₂-gur₈-mah {d}en-lil₂ ; {d}nin-lil₂-ra mu-ne-dim₂
+@tablet
+@obverse
+1. 1/2 ma-na [8 gin₂ siki tug₂ a₂;-gu₄-hu-um-tal₂]
+2. 1/2 ma-na 7 g[in₂ siki {tug₂}nig₂-lam₂-lugal]
+3. 1 2/3 ma-na 8 gin₂ siki {tug₂}[nig₂-lam₂]
+4. 2 ma-na 15 gin₂ siki ŠID-[tug₂]
+5. 1/2 ma-na 6 gin₂ siki ŠID-tug₂-lugal
+6. 3 5/6 ma-na siki {tug₂}nig₂-lam₂ šu-ka[b-ta(2)]
+7. 2 1/2 ma-na siki {tug₂}guz-za šu-kab-t[a₂]
+8. 16 ma-na siki {tug₂}ba-tab-tuh-hu-um ; 3-kam us₂
+9. 30 ma-na {tug₂}nig₂-lam₂ 3-kam [us₂]
+10. 50 ma-na siki {tug₂}guz-za 3-kam us₂
+11. 4 1/2 ma-na [siki]-{tug₂}[aktum 3-kam us₂]
+12. 8 ma-na siki ŠID-tug₂ 3-kam [us₂]
+13. 15 ma-na siki {tug₂}ba-tab-tuh-[hu-um ; 4-kam us₂]
+@reverse
+$  (rev. covered by case)
+@seal 1
+# adad-tillati A
+1. šu-kab-ta₂ a-zu
+2. dumu na-ra-am-i₃-li₂
+3. {d}IŠKUR-ILLAT
+4. dub-sar
+5. dumu a-bi₂-a arad₂-zu

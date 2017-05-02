@@ -1,0 +1,43 @@
+&P324304 = CUSAS 3 0801
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+1. 1 {tug₂}ba-tab-tuh-hu-[um] ; ME-{d}ištaran
+2. 2 {tug₂}sagšu ba-tab-tuh-hu-um ; 3-kam us₂
+3. 6 {tug₂}guz-za-AB-gen
+4. 3 {tug₂}guz-za-gen
+5. [2 {tug₂}bar-dul₅-gen]
+@reverse
+1. 1 {tug₂}bar-dul₅-t[ur-gen]
+2. 11 {tug₂}ša₃-g[a-du₃-gen]
+3. ki aš-ta₂-[kar₃-ta]
+4. puzur₄-[a-ku-um]
+5. šu ba-[ti]
+6. ša₃ GAR-š[a-an-na{ki}]
+7. [iti] a₂-[ki-ti]
+8. mu e[n {d}inanna unu{ki}];-ga [maš₂-e i₃-pa₃]
+@tablet
+@obverse
+1. 1 {tug₂}ba-tab-tuh-hu-um ; ME-{d}ištaran
+2. 2 {tug₂}sagšu ba-tab-tuh-hu;-um 3-kam us₂
+3. 6 {tug₂}guz-za-AB-gen
+4. 3 {tug₂}guz-za-gen
+5. 2 {tug₂}bar-dul₅-gen
+@reverse
+1. 1 {tug₂}bar-dul₅-tur-gen
+2. 11 {tug₂}ša₃-ga-du₃-gen
+3. ki aš-ta₂-kar₃-ta
+4. puzur₄-a-ku-um
+5. šu ba-ti
+6. iti a₂-ki-ti
+7. mu en {d}inanna unu{ki};-ga maš₂-e i₃-pa₃
+@seal 1
+# puzur-agum C
+1. ME-{d}ištaran
+2. dumu-munus lugal
+3. puzur₄-a-ku-um
+4. azlag₇ arad₂-zu

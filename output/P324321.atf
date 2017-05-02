@@ -1,0 +1,45 @@
+&P324321 = CUSAS 3 0596
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+1. [2 2/3 ma-na siki  {giš}garigₓ(|ZUM.SI|) ; ak tug₂ 3-kam us₂]
+2. [2/3 ma-na 5 gin₂ siki pešₓ(|[ŠU.PEŠ₅]|)-a] ; tug₂ 3-kam us₂
+3. 1 1/2 ma-na ŠID |U.NU.A| {tug₂}[nig₂-lam₂] ; 3-kam us₂
+4. [1]5 gin₂ ŠID |U.NU.A| {tug₂}[nig₂-lam₂] ; [4-kam us₂]
+5. [1]3 gin₂ ŠID |U.NU.A| {tug₂}[guz-za] ; [4-kam us₂]
+@reverse
+1. [1 5/6 ma-na 7 gin₂ ; [ŠID |U.NU.A| {tug₂}guz-za];-gen
+2. [n+2 ma-na 10 gin₂ siki {tug₂}uš-bar]
+3. [2 ma-na 10 gin₂ siki tug₂ x;-gi₆]
+4. [ki {d}]IŠKUR-[ILLAT-ta]
+5. [aš]-ta₂-k[ar₃ ugula uš-bar]
+6. [šu] ba-an-[ti]
+7. [ša₃] GAR-š[a-an-na{ki}]
+8. [iti ezem-mah]
+9. [mu {d}šu-{d}suen lugal-e] ; [na-du₃-a mah {d}en-lil₂] ; [{d}nin-lil₂-ra mu-ne-du₃]
+@tablet
+@obverse
+1. 2 2/3 ma-na siki {giš}garigₓ(|ZUM.SI|) ; ak tug₂ 3-kam us₂
+2. 2/3 ma-na 5 gin₂ siki pešₓ(|ŠU.PEŠ₅|)-[a] ; tug₂ 3-kam us₂
+3. 1 1/2 ma-na ŠID |U.NU.A| {tug₂}nig₂-⸢lam₂⸣ ; 3-kam us₂
+4. 15 gin₂ ŠID |U.NU.A| {tug₂}nig₂-lam₂ ; 4-kam us₂
+5. 13 gin₂ ŠID |U.NU.A| {tug₂}guz-[za] ; 4-kam us₂
+6. [n]+5/6 ma-na 7 gin₂ ; ŠID |[U.NU.A]| {tug₂}guz-za;-gen
+@reverse
+1. [5]+2 ma-na 10 gin₂ [siki] ; [tu]g₂-uš-bar [...]
+2. 2 ma-na 10 gin₂ siki tug₂ x;-gi₆
+3. ki {d}IŠKUR-ILLAT-ta
+4. aš-ta₂-kar₃ ugula uš-bar
+5. šu ba-an-ti
+6. ša₃ GAR-ša-an-na{ki}
+7. iti ezem-mah
+8. mu {d}šu-{d}suen lugal-[e] ; [na]-du₃-a mah {d}en-lil₂ ; {d}nin-lil₂-ra mu-ne;-du₃
+@seal 1
+# aštaqqar A
+1. aš-ta₂-kar₃
+2. ugula uš-bar
+3. geme₂ a-bu-ni

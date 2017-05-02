@@ -1,0 +1,37 @@
+&P324225 = CUSAS 3 0412
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+1. 4.0.0 ziz₂ gur
+2. ziz₂-ba-na zi₃-sig₁₅ ; 4 1/2 sila₃ 5 gin₂-ta i₃-gal₂
+3. 7.4.0 gig [gur]
+4. [sa]g? gal₂-la nu-ub-tuku
+5. [a₂] geme₂ kinkin₂ 
+#note: (=|HAR.HAR|)
+@reverse
+1. [ki {d}IŠ]KUR-ILLAT-ta
+2. [{d}ma-lik-b]a-n[i]
+3. [šu ba-an-ti]
+$ ([seal])
+4. [iti maš-da₃-gu₇]
+5. [mu {d}šu-{d}suen] ; [lugal uri₅{ki}-ma];-[ke₄ ma-da za-ab];-[ša-li{ki} mu-hul]
+@tablet
+@obverse
+1. 4.0.0 ziz₂ gur
+2. ziz₂-ba-na zi₃-sig₁₅ ; 4 1/2 sila₃ 5 gin₂-ta ; i₃-gal₂
+3. 7.4.0 gig gur
+4. [sag? gal₂-l]a nu-ub-tuku
+@reverse
+1. [k]i {d}IŠKUR-ILLAT-ta
+2. {d}ma-lik-ba-ni
+3. šu ba-an-ti
+4. iti maš-da₃-gu₇
+5. mu {d}šu-{d}suen ; lugal uri₅{ki}-ma;-ke₄ ma-da za-ab;-ša-li{ki} mu;-hul
+@seal 1
+# malik-bani
+1. {d}ma-lik-ba-ni
+2. arad₂ na-ra-am-i₃-li₂

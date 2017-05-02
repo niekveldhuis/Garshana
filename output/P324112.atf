@@ -1,0 +1,30 @@
+&P324112 = CUSAS 3 0612
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+1. 2 geme₂ u₄-18-še₃
+2. ki {d}IŠKUR-ILLAT-ta
+3. aš-ta₂-kar₃ ugula [uš-bar]
+4. i₃-dab₅
+@reverse
+1. iti maš-da₃-gu₇
+2. mu us₂-sa {d}šu-{d}suen ; lugal-e na-du₃-a mah ; {d}en-lil₂ {d}nin-lil₂;-ra mu-ne-[du₃]
+@tablet
+@obverse
+1. 2 geme₂ u₄-18-še₃
+2. ($blank$)
+3. ki {d}IŠKUR-ILLAT;-ta
+4. aš-ta₂-kar₃ ugula uš-bar
+5. i₃-dab₅
+@reverse
+1. iti maš-da₃-gu₇
+2. mu us₂-sa {d}šu-{d}suen ; lugal-e na-du₃-a;-mah mu-ne;-du₃
+@seal 1
+# aštaqqar A
+1. aš-ta₂-kar₃
+2. ugula uš-bar
+3. geme₂ a-bu-ni

@@ -1,0 +1,37 @@
+&P324096 = CUSAS 3 0860
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+1. 1 kuš-udu
+2. sa₂-du₁₁ {d}inanna zabalam₄{ki} 
+#note: (=|MUŠ₃.ZA.UNUG|)
+3. 1 kuš maš₂
+4. sa₂-du₁₁ {d}šara₂ umma{ki}
+5. ki {d}IŠKUR-ILLAT-ta
+6. a-na-ah-i₃-li₂
+@reverse
+1. šu ba-[ti]
+$ (seal)
+2. iti maš-da₃-gu₇
+3. mu us₂-sa {d}šu-{d}suen ; lugal-e na-du₃-a mah ; {d}en-lil₂ {d}nin-lil₂;-ka mu-ne;-du₃
+@tablet
+@obverse
+1. 1 kuš-udu
+2. sa₂-du₁₁ {d}inanna ; zabalam₄{ki} 
+#note: (=|MUŠ₃.ZA.UNUG|)
+3. 1 kuš maš₂
+4. sa₂-du₁₁ {d}šara₂;-umma{ki}
+@reverse
+1. ki {d}IŠKUR-ILLAT;-ta
+2. a-na-ah-i₃-li₂
+3. šu ba-ti
+4. iti maš-da₃-gu₇
+5. mu us₂-sa na-du₃;-a-mah mu-ne-du₃
+@seal 1
+# anahili B
+1. an-na-ah-i₃-li₂ ašgab
+2. dumu sa₂-ba

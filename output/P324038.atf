@@ -1,0 +1,31 @@
+&P324038 = CUSAS 3 1080
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+1. 5.0.0 dabin gur
+2. nig₂ na-kab-tum-še₃
+3. ki {d}ma-lik-ba-ni-t[a]
+4. a-da-lal₃ [muhaldim]
+5. šu ba-an-[ti]
+@reverse
+1. [iti ez]em-[me-ki-gal₂]
+$ (seal)
+2. mu {d}šu-{d}su[en lugal-e] ; na-du₃-a-ma[h] ; mu-n[e-du₃]
+@tablet
+@obverse
+1. 5.0.0 dabin gur
+2. nig₂ na-kab-tum-še₃
+3. ki {d}ma-lik-ba-ni-ta
+4. a-da-lal₃ muhaldim
+@reverse
+1. šu ba-an-ti
+2. iti ezem-me-ki-gal₂
+3. mu {d}šu-{d}suen lugal-e ; na-du₃-a-mah ; mu-ne-du₃
+@seal 1
+# adalal A
+1. a-da-lal₃ muhaldim
+2. arad₂ šu-kab-ta₂

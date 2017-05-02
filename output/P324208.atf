@@ -1,0 +1,32 @@
+&P324208 = CUSAS 3 1132
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+1. 0.[3].4.4 sila₃ dabin
+2. mu-kuₓ(DU)
+3. [za]-la-a
+4. {d}ma-lik-ba-ni
+@reverse
+1. šu ba-an-ti
+$ (seal)
+2. [iti] ezem-{d}šu-{d}suen
+3. mu ma-da za-ab;-ša-li mu-hul
+@tablet
+@obverse
+1. 0.3.4.4 sila₃ dabin
+2. mu-kuₓ(DU)
+3. za-la-a
+4. {d}ma-lik-ba-ni
+@reverse
+1. šu ba-an-ti
+$ (seal)
+2. [iti] ezem-{d}šu;-{d}suen
+3. mu ma-da za;-ab-ša-li ; mu-hul
+@seal 1
+# malik-bani
+1. {d}ma-lik-ba-ni
+2. arad₂ na-ra-am-i₃-li₂

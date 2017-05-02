@@ -1,0 +1,30 @@
+&P324228 = CUSAS 3 1301
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+1. [10] {gi}gur še ; esir₂ šub-ba
+2. [ki] {d}IŠKUR-ILLAT-ta
+3. [{d}ma-li]k-ba-ni
+4. [šu ba-ti]
+@reverse
+$ (seal)
+1. iti ezem-{d}šul-gi
+2. mu ma-da za-ab;-[ša-li{ki} mu-hul]
+@tablet
+@obverse
+1. 10 {gi}gur še ; esir₂ šub-ba
+2. [k]i [{d}IŠKUR-ILLAT]-ta
+3. [{d}ma-li]k-ba-ni
+@reverse
+1. [šu] ba-an-ti
+$ single ruling
+2. iti ezem-{d}šul-gi
+3. mu ma-da za-ab;-ša-li{ki} mu-hul
+@seal 1
+# malik-bani
+1. {d}ma-lik-ba-ni
+2. arad₂ na-ra-am-i₃-li₂

@@ -1,0 +1,31 @@
+&P324055 = CUSAS 3 1150
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+1. 1.0.4 duh-duru₅-sig₅
+2. bil₂-še₃
+3. ki {d}IŠKUR-[ILLAT]-ta
+4. a-da-lal₃ mu[aldim]
+@reverse
+1. šu ba-an-ti
+$ (seal)
+2. iti še-KIN-[ku₅]
+3. mu ma₂-gur₈-mah ; [{d}en-l]il₂-{d}n[in-lil₂-ra] ; mu-n[e-dim₂]
+@tablet
+@obverse
+1. 1.0.4 duh-duru₅-sig₅
+2. bil₂-še₃
+3. ki {d}IŠKUR-ILLAT-ta
+4. a-da-lal₃
+@reverse
+1. šu ba-an-ti
+2. iti še-KIN-ku₅
+3. mu ma₂-gur₈;-mah mu-ne;-dim₂
+@seal 1
+# adalal H
+1. a-da-lal₃ muhaldim
+2. arad₂ šu-kab-ta₂

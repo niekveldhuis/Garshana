@@ -1,0 +1,35 @@
+&P324332 = CUSAS 3 0591
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+# (envelope fragments)
+@tablet
+@obverse
+1. 1 {tug₂}a₂-<gu₄>-hu-um-tal₂-lugal
+2. 1 {tug₂}nig₂-lam₂-tab-ba-AB-tal₂-4;-lugal
+3. 1 {tug₂}nig₂-lam₂-tal₂-us₂
+4. 1 {tug₂}nig₂-lam₂-tur ME-{d}ištaran
+5. 1 {tug₂}bar-dul₅-AB šu-kab-ta₂
+6. 1 {tug₂}nig₂-lam₂ šu-kab-ta₂
+7. 1 {tug₂}ša₃-ga-du₃ nig₂-lam₂ šu-ka[b-ta₂]
+8. 2 {tug₂}sagšu ta₂-ki-ru-um ; ME-{d}ištaran
+9. [n {tug₂}bar]-dul₅-[...]
+$ rest broken
+@reverse
+$ beginning broken
+1'. [n] {tug₂}ša₃-ga-du₃[...]
+2'. ($blank$)  72
+3'. tug₂ sa gi₄-[am₃]
+4'. ki puzur₄-a-ku-um-[ta]
+5'. šu-{d}IŠKUR šu ba-an-ti
+6'. ša₃ tum-ma-al{ki}
+7'. iti ezem-{d}šul-gi
+8'. mu {d}šu-{d}suen lugal ; uri₅{ki}-ma-ke₄ na-du₃-a ; mah {d}en-lil₂ {d}nin-lil₂;-ra mu-ne₂-du₃
+@seal 1
+# šu-adad
+1. šu-{d}IŠKUR
+$ rest broken

@@ -1,0 +1,46 @@
+&P323823 = CUSAS 3 0760
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+1. [1 {tug₂}nig₂-lam₂] 3-kam us₂
+2. 1 {tug₂}ša₃-ga-du₃ ba-tab-tuh;-hu-um 3-kam us₂
+3. 1 {tug₂}bar-si 3-kam us₂
+4. 1 {tug₂}nig₂-lam₂ 4-kam ⸢us₂⸣
+5. 4 {tug₂}guz-za-gen
+6. 4 {tug₂}bar-dul₅-gen
+7. 4 {tug₂}uš-bar
+@reverse
+1. 1 [{tug₂}uš-bar-gi₆]
+2. ki aš-ta₂-kar₃-ta
+3. puzur₄-a-ku-um
+4. šu ba-ti
+5. ša₃ GAR-ša-an-na
+6. [iti ki-sig₂{d}nin]-a-zu
+7. [mu {d}i-bi₂-{d}suen] ; [lugal]
+@tablet
+@obverse
+1. 1 {tug₂}nig₂-lam₂ 3-kam us₂
+2. 1 {tug₂}ša₃-ga-du₃ ba-tab-tuh;-hu-um 3-kam us₂
+3. 1 {tug₂}bar-si 3-kam us₂
+4. 1 {tug₂}nig₂-lam₂ 4-kam us₂
+5. 4 {tug₂}guz-za-gen
+6. 4 {tug₂}bar-dul₅-gen
+@reverse
+1. 4 {tug₂}uš-bar
+2. 1 {tug₂}uš-bar-gi₆
+3. ki aš-ta₂-kar₃-ta
+4. puzur₄-[a-ku-u]m
+5. šu ba-[ti]
+6. iti ki-siki-[{d}nin-a-z]u
+7. mu {d}i-[bi₂];-{d}suen l[ugal]
+@seal 1
+# puzur-agum A
+1. šu-{d}kab₂-ta
+2. a-zu
+3. dumu na-ra-am-i₃-li₂
+4. puzur₄-a-ku-um
+5. azlag₇ arad₂-zu

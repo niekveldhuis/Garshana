@@ -1,0 +1,33 @@
+&P382682 = CUSAS 3 1469
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+1. 13.1.5 dabin gur
+2. i-šar-li-bur
+3. šu ba-an-ti
+4. ki lal₃-li₂-a šabra
+5. maš-kan₂-hul-li₂-ṣur{ki}-ta
+6. ba-zi
+@reverse
+$ (seal)
+1. iti ezem-mah
+2. mu si-ma-num₂{ki} ; ba-hul
+@tablet
+@obverse
+1. 13.1.5 dabin gur
+2. i-šar-li-bur
+3. šu ba-an-ti
+4. ki la!-NI-a šabra
+5. maš-kan₂-hul-li₂-(ṣur{ki}-ta)
+@reverse
+# (covered by envelope)
+@seal 1
+# turam-ili
+1. šu-kab-ta₂ a-zu
+2. dumu na-ra-am-i₃-li₂
+3. tu-ra-am-i₃-li₂
+4. dub-sar arad₂-zu

@@ -1,0 +1,48 @@
+&P324156 = CUSAS 3 0230
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+1. [1 guruš ašgab]
+2. 1 guruš a[d-KID]
+3. 1 1/2 gur[uš bahar₂]
+4. 1 gur[uš simug]
+5. 1 guruš [tug₂-du₈]
+6. [u₄]-10-še₃
+7. gi-NE u₃-dag{ki}-ga-ta
+8. GAR-ša-an-na{ki}-še₃
+9. de₆-a
+@reverse
+1. [giri₃ {d}IŠKUR-ILLAT šabra]
+2. [u₃] be-li₂-i₃-[li₂ ugula ma₂-gid₂]
+3. [z]i-ga giri₃ šu-[kab-ta(2)]
+4. ki {d}IŠKUR-ILLAT-[ta]
+5. ba-z[i]
+6. iti zahₓ(ŠEŠ)-da-g[u₇]
+7. mu {d}šu-{d}suen lu[gal];-uri₅{ki}-ma-ke₄ ; ma-da za-ab-ša-li;{ki} mu-hul
+@tablet
+@obverse
+1. 1 guruš ašgab
+2. 1 guruš ad-KID
+3. 1 1/2 guruš bahar₂
+4. 1 guruš simug
+5. 1 guruš tug₂-du₈
+6. u₄-10-še₃
+7. gi-NE u₃-dag{ki}-ga-ta
+8. GAR-ša-an-na{ki}-še₃
+@reverse
+1. [de₆]-a
+2. g[iri₃] {d}[IŠ]KUR-ILLAT 2?
+3. ⸢u₃⸣ be-li₂-i₃-li₂
+4. zi-ga giri₃ šu-kab-ta-<<ta>>
+5. ki {d}IŠKUR-ILLAT-ta
+6. ba-zi
+7. iti zahₓ(ŠEŠ)-da-gu₇
+8. mu {d}šu-{d}suen lugal-e ; ma-da za-ab-ša-li;{ki} mu-hul
+@seal 1
+# beli-ili
+1. šu-i
+2. be-li₂-i₃-li₂

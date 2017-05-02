@@ -1,0 +1,38 @@
+&P324011 = CUSAS 3 1343
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@envelope
+@obverse
+1. la₂-i₃ 0.3.2.9 1/3 sila₃ 6 g[in₂] ; esir₂ e₂-a
+2. 1 ma-na 18 gin₂ nig₂-U+NU-[a siki ud₅]
+3. 1 ma-na im-bar₆-bar₆
+4. 34 2/3 ma-na BUR₂
+5. [n gu₂ 6 1/2 ma-na 5 gin₂ ; šu-šar peš]
+@reverse
+1. [331 2/3 1/3 gin₂] ; guruš u₄-[1-še₃]
+2. [la₂-i₃]-am₃
+3. [a-hu-DU₁₀ a]d-KID ; [in-da]-gal₂
+4. [ša₃ GAR-ša]-an-na⸢{ki}⸣
+5. [iti] u₅-b[i₂]-g[u₇]
+6. mu {d}[šu-{d}su]en lugal ; [uri₅{ki}-ma-ke₄ e₂ {d}šara₂];-[umma];{ki}-ka mu-[du₃]
+@tablet
+@obverse
+1. la₂-i₃ 0.3.2.9 1/3 sila₃ ; 6 gin₂ esir₂ e₂-a
+2. 1 ma-na 18 gin₂ nig₂-U+NU-a ; siki ud₅
+3. 1 ma-na im-bar₆-bar₆
+4. 34 2/3 ma-na BUR₂
+5. [n] gu₂ 6 1/2 ma-na 5 gin₂ ; šu-šar peš
+@reverse
+1. 331 2/3 1/3 gin₂ ; guruš u₄-1-še₃
+2. la₂-i₃-am₃
+3. a-hu-DU₁₀ ad-KID in-da;-gal₂
+4. ša₃ GAR-ša-an-na{ki}
+5. iti u₅-bi₂-g[u₇]
+6. mu {d}šu-{d}suen lugal uri₅{ki}-ma-ke₄ e₂ {d}[šara₂];-[umma]{ki}-ka mu-du₃
+@seal 1
+# ahu-ṭabu B
+1. a-hu-DU₁₀
+2. ad-KID

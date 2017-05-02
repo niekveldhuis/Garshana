@@ -1,0 +1,29 @@
+&P332511 = London antiquities 114
+#project: garshana
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+
+@obverse
+1. 0.2.0 še i-lu-lu
+2. 0.0.4 <še> tu-ra-am-i₃-li₂
+3. 0.1.2.5 sila₃ <še> pu-su₂-num₂
+4. 0.0.2.. <še> hu-zi
+5. 0.0.2 <še> U₃?-ba
+6. 0.0.2 <še> EN-i₃-li₂
+7. 0.0.2 <še> eš₄-tar₂-um-me
+8. 0.0.2 <še> i₃-zi-na
+9. 0.0.2 <še> i-NE-DI
+10. 0.0.2 <še> e-da-ti-ni
+11. 0.0.2 <še> na-a-a
+@reverse
+12. 0.0.2 <še> ba-za
+13. 0.0.1.5 sila₃ <še> a-li₂-ud-da
+14. 0.0.1 <še> NE-ga-ma
+# (or KU)
+15. 0.0.2 <še> da-ra
+16. 0.0.2 <še> NI-ib-ni-tum
+17. 0.0.1 <še> ME-{d}nin-šubur
+$ single ruling
+18. šu-nigin₂ 1.3.2 še-ba <gur> e₂
+19. iti ezem-{d}nin-a-zu
